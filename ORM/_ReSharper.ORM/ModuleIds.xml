@@ -1,4 +1,0 @@
-<Modules>
-  <Module PersistentId="8C53BBCE-454B-4CC1-9F43-102F28D4FB81" ModuleId="ORM" />
-  <Module PersistentId="19649DBA-BD90-451E-9869-609F3CCDF3D8" ModuleId="ORM.Tests" />
-</Modules>

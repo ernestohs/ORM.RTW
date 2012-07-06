@@ -3,7 +3,7 @@
 */obj/*
 
 #Resharper Stuff
-_ReSharper.ORM/*
+ORM/_ReSharper.ORM/*
 
 # Visual Studio files
 *.suo
