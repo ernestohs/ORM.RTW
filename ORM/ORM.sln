@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ORM", "ORM\ORM.csproj", "{8C53BBCE-454B-4CC1-9F43-102F28D4FB81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ORM.Tests", "..\ORM.Tests\ORM.Tests.csproj", "{19649DBA-BD90-451E-9869-609F3CCDF3D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19649DBA-BD90-451E-9869-609F3CCDF3D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19649DBA-BD90-451E-9869-609F3CCDF3D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19649DBA-BD90-451E-9869-609F3CCDF3D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19649DBA-BD90-451E-9869-609F3CCDF3D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C53BBCE-454B-4CC1-9F43-102F28D4FB81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C53BBCE-454B-4CC1-9F43-102F28D4FB81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C53BBCE-454B-4CC1-9F43-102F28D4FB81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C53BBCE-454B-4CC1-9F43-102F28D4FB81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
