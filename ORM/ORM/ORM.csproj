@@ -45,6 +45,7 @@
     <Compile Include="Commands\MetaData.cs" />
     <Compile Include="Commands\SaveCommand.cs" />
     <Compile Include="Commands\SelectCommand.cs" />
+    <Compile Include="ORM.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -11,15 +11,13 @@ namespace ORM.Commands
 
         private IMetadata MetaData { get; set; }
 
-        public SqlCommand Execute(object Id)
+        public SqlCommand Execute(object id)
         {
-            var command = new SqlCommand(string.Format(
-                                    "SELECT Id,{0} FROM {1} WHERE Id=@Id",
-                                        string.Join(",", MetaData.Properties),
-                                        MetaData.Name
-                                        ));
+            var query = string.Format("SELECT Id,{0} FROM {1} WHERE Id=@Id", string.Join(",", MetaData.Properties), MetaData.Name);
 
-            command.Parameters.Add(new SqlParameter("Id", Id));
+            var command = new SqlCommand(query);
+
+            command.Parameters.Add(new SqlParameter("Id", id));
 
             return command;
         }

@@ -4,7 +4,7 @@ namespace ORM.Commands
 {
     public class SaveCommand : ICommand
     {
-        public SqlCommand Execute(object Id)
+        public SqlCommand Execute(object id)
         {
             throw new System.NotImplementedException();
         }

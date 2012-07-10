@@ -4,6 +4,6 @@ namespace ORM.Commands
 {
     public interface ICommand
     {
-        SqlCommand Execute(object Id);
+        SqlCommand Execute(object id);
     }
 }

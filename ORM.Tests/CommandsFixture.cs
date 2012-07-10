@@ -22,5 +22,20 @@ namespace ORM.Tests
             
             Assert.That(actual.CommandText, Is.EqualTo(expected));
         }
+
+        [Test]
+        public void TestDeleteCommand()
+        {
+            const string expected = "DELETE FROM UnitTestTable WHERE Id=@Id";
+
+            var target = new DeleteCommand(new MetaData {
+                                                Name = "UnitTestTable",
+                                                Properties = new[] { "Author", "Title", "Year" }
+                                            });
+            
+            var actual = target.Execute(666);
+            
+            Assert.That(actual.CommandText, Is.EqualTo(expected));
+        }
     }
 }
