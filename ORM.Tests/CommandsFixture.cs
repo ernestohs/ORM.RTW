@@ -1,6 +1,7 @@
 ﻿using System.Collections.Generic;
 using NUnit.Framework;
 using ORM.Commands;
+using ORM.Contracts;
 
 namespace ORM.Tests
 {

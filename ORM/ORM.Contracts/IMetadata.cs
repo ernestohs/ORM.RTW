@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace ORM.Commands
+namespace ORM.Contracts
 {
     public interface IMetadata
     {

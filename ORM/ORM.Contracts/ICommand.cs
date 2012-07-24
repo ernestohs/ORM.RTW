@@ -1,6 +1,6 @@
-﻿using System.Data.SqlClient;
+using System.Data.SqlClient;
 
-namespace ORM.Commands
+namespace ORM.Contracts
 {
     public interface ICommand
     {

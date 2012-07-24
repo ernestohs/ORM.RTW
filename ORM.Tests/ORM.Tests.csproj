@@ -91,6 +91,10 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\ORM\ORM.Contracts\ORM.Contracts.csproj">
+      <Project>{f6cdfb79-57d4-4c2d-a9ce-8b4dd4dead18}</Project>
+      <Name>ORM.Contracts</Name>
+    </ProjectReference>
     <ProjectReference Include="..\ORM\ORM\ORM.csproj">
       <Project>{8c53bbce-454b-4cc1-9f43-102f28d4fb81}</Project>
       <Name>ORM</Name>

@@ -1,0 +1,5 @@
+C:\Users\eherrera\Documents\GitHub\ORM.RTW\ORM\ORM.Contracts\bin\Debug\ORM.Contracts.dll
+C:\Users\eherrera\Documents\GitHub\ORM.RTW\ORM\ORM.Contracts\bin\Debug\ORM.Contracts.pdb
+C:\Users\eherrera\Documents\GitHub\ORM.RTW\ORM\ORM.Contracts\obj\Debug\ORM.Contracts.csprojResolveAssemblyReference.cache
+C:\Users\eherrera\Documents\GitHub\ORM.RTW\ORM\ORM.Contracts\obj\Debug\ORM.Contracts.dll
+C:\Users\eherrera\Documents\GitHub\ORM.RTW\ORM\ORM.Contracts\obj\Debug\ORM.Contracts.pdb

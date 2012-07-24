@@ -1,4 +1,5 @@
 ﻿using System.Data.SqlClient;
+using ORM.Contracts;
 
 namespace ORM.Commands
 {

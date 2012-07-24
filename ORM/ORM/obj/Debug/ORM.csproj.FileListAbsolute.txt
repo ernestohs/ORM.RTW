@@ -3,3 +3,5 @@ C:\Users\eherrera\Documents\GitHub\ORM.RTW\ORM\ORM\bin\Debug\ORM.pdb
 C:\Users\eherrera\Documents\GitHub\ORM.RTW\ORM\ORM\obj\Debug\ORM.csprojResolveAssemblyReference.cache
 C:\Users\eherrera\Documents\GitHub\ORM.RTW\ORM\ORM\obj\Debug\ORM.dll
 C:\Users\eherrera\Documents\GitHub\ORM.RTW\ORM\ORM\obj\Debug\ORM.pdb
+C:\Users\eherrera\Documents\GitHub\ORM.RTW\ORM\ORM\bin\Debug\ORM.Contracts.dll
+C:\Users\eherrera\Documents\GitHub\ORM.RTW\ORM\ORM\bin\Debug\ORM.Contracts.pdb
